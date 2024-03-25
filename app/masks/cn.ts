@@ -15,8 +15,7 @@ export const CN_MASKS: BuiltinMask[] = [
       {
         id: "text-1",
         role: "user",
-        content: "我将为你提供一个五点描述，请认真阅读、理解、记忆
-",
+        content: "我将为你提供一个五点描述，请认真阅读、理解、记忆",
         date: "",
       },
       {
