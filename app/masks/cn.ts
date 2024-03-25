@@ -2,7 +2,7 @@ import { BuiltinMask } from "./typing";
 
 export const CN_MASKS: BuiltinMask[] = [
     {
-    avatar: "1f5bc-fe0f",
+    avatar: "1f5bc-fe0i",
     name: "文案",
     context: [
       {
@@ -27,11 +27,7 @@ export const CN_MASKS: BuiltinMask[] = [
       {
         id: "text-3",
         role: "user",
-        content: "Applicable scenarios: Our 1/2-inch irrigation pipe anti-fall locking barb tee helps build maintenance-free irrigation systems, perfect for gardens, greenhouses, farms, lawns, flower beds, yards and other agricultural irrigation systems./n
-Easy to install: No glue, tools or clamps required for installation. Simply insert this irrigation pipe connector into the end of your drip hose and the barbed end will connect securely without easily coming apart./n
-HIGH QUALITY: Our switch valve barbed connectors are made of high-impact, high-strength plastic material, not easy to break or deform, strong, waterproof and long-lasting. Very strong and durable in sunlight and cold weather./n
-Package Includes: 5 Drip Irrigation Stop Valves for 1/2-Inch Drip Irrigation Pipe Connectors. Great for garden drip irrigation, sturdy and very tight./n
-After-sales commitment: If you have any questions about our products, please contact us through Amazon and we will contact you as soon as possible./n
+        content: "Applicable scenarios: Our 1/2-inch irrigation pipe anti-fall locking barb tee helps build maintenance-free irrigation systems, perfect for gardens, greenhouses, farms, lawns, flower beds, yards and other agricultural irrigation systems./nEasy to install: No glue, tools or clamps required for installation. Simply insert this irrigation pipe connector into the end of your drip hose and the barbed end will connect securely without easily coming apart./nHIGH QUALITY: Our switch valve barbed connectors are made of high-impact, high-strength plastic material, not easy to break or deform, strong, waterproof and long-lasting. Very strong and durable in sunlight and cold weather./nPackage Includes: 5 Drip Irrigation Stop Valves for 1/2-Inch Drip Irrigation Pipe Connectors. Great for garden drip irrigation, sturdy and very tight./nAfter-sales commitment: If you have any questions about our products, please contact us through Amazon and we will contact you as soon as possible./n
 ",
         date: "",
       },
@@ -92,7 +88,7 @@ After-sales commitment: If you have any questions about our products, please con
     },
     lang: "cn",
     builtin: true,
-    createdAt: 1688899480510,
+    createdAt: 1688899480521,
   },
 
   {
